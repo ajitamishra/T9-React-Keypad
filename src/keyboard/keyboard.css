@@ -1,0 +1,38 @@
+.wrapper{
+    width: 350px;
+    height: 600px;
+    background-color: wheat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#result{
+    width: 200px;
+    height: 160px;
+    margin-bottom: -8px;
+    border: 20px solid black;
+
+}
+
+.key_container{
+    
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    font-size: 14px;
+}
+
+.key{
+    height: 50px;
+    width: 60px;
+    margin: 3px;
+}
+
+.txt{
+    display: block;
+    margin-top: 5px;
+    font-size: 10px;
+}
